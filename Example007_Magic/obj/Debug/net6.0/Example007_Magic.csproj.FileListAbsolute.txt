@@ -1,0 +1,15 @@
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.deps.json
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.runtimeconfig.json
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.dll
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/bin/Debug/net6.0/ref/Example007_Magic.dll
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/bin/Debug/net6.0/Example007_Magic.pdb
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.AssemblyReference.cache
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfoInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.AssemblyInfo.cs
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.csproj.CoreCompileInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.dll
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/ref/Example007_Magic.dll
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.pdb
+/home/mikhail/Проекты/MP/Examples/Example007_Magic/obj/Debug/net6.0/Example007_Magic.genruntimeconfig.cache
