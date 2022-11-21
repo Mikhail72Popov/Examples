@@ -1,0 +1,15 @@
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.AssemblyReference.cache
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfoInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.AssemblyInfo.cs
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.csproj.CoreCompileInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.deps.json
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.runtimeconfig.json
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.dll
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/bin/Debug/net6.0/ref/Example005_IfElse.dll
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/bin/Debug/net6.0/Example005_IfElse.pdb
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.dll
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/ref/Example005_IfElse.dll
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.pdb
+/home/mikhail/Проекты/MP/Examples/Example005_IfElse/obj/Debug/net6.0/Example005_IfElse.genruntimeconfig.cache
