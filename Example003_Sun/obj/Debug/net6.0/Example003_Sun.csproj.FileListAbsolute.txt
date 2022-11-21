@@ -1,0 +1,15 @@
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/bin/Debug/net6.0/Example003_Sun
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/bin/Debug/net6.0/Example003_Sun.deps.json
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/bin/Debug/net6.0/Example003_Sun.runtimeconfig.json
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/bin/Debug/net6.0/Example003_Sun.dll
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/bin/Debug/net6.0/ref/Example003_Sun.dll
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/bin/Debug/net6.0/Example003_Sun.pdb
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.csproj.AssemblyReference.cache
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.AssemblyInfoInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.AssemblyInfo.cs
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.csproj.CoreCompileInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.dll
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/ref/Example003_Sun.dll
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.pdb
+/home/mikhail/Проекты/MP/Examples/Example003_Sun/obj/Debug/net6.0/Example003_Sun.genruntimeconfig.cache
