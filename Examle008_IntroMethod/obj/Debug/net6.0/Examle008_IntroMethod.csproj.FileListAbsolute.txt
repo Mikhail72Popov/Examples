@@ -1,0 +1,15 @@
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/bin/Debug/net6.0/Examle008_IntroMethod
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/bin/Debug/net6.0/Examle008_IntroMethod.deps.json
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/bin/Debug/net6.0/Examle008_IntroMethod.runtimeconfig.json
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/bin/Debug/net6.0/Examle008_IntroMethod.dll
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/bin/Debug/net6.0/ref/Examle008_IntroMethod.dll
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/bin/Debug/net6.0/Examle008_IntroMethod.pdb
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.csproj.AssemblyReference.cache
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.AssemblyInfoInputs.cache
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.AssemblyInfo.cs
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.csproj.CoreCompileInputs.cache
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.dll
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/ref/Examle008_IntroMethod.dll
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.pdb
+/home/mikhail/Проекты/MP/Examples/Examle008_IntroMethod/obj/Debug/net6.0/Examle008_IntroMethod.genruntimeconfig.cache
