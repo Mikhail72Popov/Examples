@@ -1,0 +1,15 @@
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.deps.json
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.runtimeconfig.json
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.dll
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/bin/Debug/net6.0/ref/Example010_MethodArray.dll
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/bin/Debug/net6.0/Example010_MethodArray.pdb
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.AssemblyReference.cache
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfoInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.AssemblyInfo.cs
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.csproj.CoreCompileInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.dll
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/ref/Example010_MethodArray.dll
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.pdb
+/home/mikhail/Проекты/MP/Examples/Example010_MethodArray/obj/Debug/net6.0/Example010_MethodArray.genruntimeconfig.cache
