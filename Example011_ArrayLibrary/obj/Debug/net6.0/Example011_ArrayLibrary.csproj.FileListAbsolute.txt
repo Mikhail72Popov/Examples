@@ -1,0 +1,15 @@
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.deps.json
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.runtimeconfig.json
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.dll
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/bin/Debug/net6.0/ref/Example011_ArrayLibrary.dll
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/bin/Debug/net6.0/Example011_ArrayLibrary.pdb
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.AssemblyReference.cache
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfoInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.AssemblyInfo.cs
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.csproj.CoreCompileInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.dll
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/ref/Example011_ArrayLibrary.dll
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.pdb
+/home/mikhail/Проекты/MP/Examples/Example011_ArrayLibrary/obj/Debug/net6.0/Example011_ArrayLibrary.genruntimeconfig.cache
