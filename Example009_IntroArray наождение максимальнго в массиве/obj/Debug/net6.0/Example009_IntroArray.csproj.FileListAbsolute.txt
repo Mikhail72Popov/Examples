@@ -1,0 +1,15 @@
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.deps.json
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.runtimeconfig.json
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.dll
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/bin/Debug/net6.0/ref/Example009_IntroArray.dll
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/bin/Debug/net6.0/Example009_IntroArray.pdb
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.AssemblyReference.cache
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfoInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.AssemblyInfo.cs
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.csproj.CoreCompileInputs.cache
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.dll
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/ref/Example009_IntroArray.dll
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.pdb
+/home/mikhail/Проекты/MP/Examples/Example009_IntroArray/obj/Debug/net6.0/Example009_IntroArray.genruntimeconfig.cache
